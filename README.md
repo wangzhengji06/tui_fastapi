@@ -4,6 +4,7 @@ Used to simulate the behavior of a bank account
 
 ## Current Structure
 
+```
 ├── app
 │   ├── actions.py
 │   ├── context.py
@@ -38,6 +39,7 @@ Used to simulate the behavior of a bank account
 ├── test_bank.py
 ├── test_states.py
 └── uv.lock
+```
 
 ### main.py
 
